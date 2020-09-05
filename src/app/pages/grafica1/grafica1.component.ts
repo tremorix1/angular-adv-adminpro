@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { DonaComponent } from '../components/dona/dona.component';
+import { DonaComponent } from '../../components/dona/dona.component';
 @Component({
   selector: 'app-grafica1',
   templateUrl: './grafica1.component.html',
